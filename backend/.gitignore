@@ -1,0 +1,18 @@
+# ---- VENV ----
+.venv/
+
+# ---- Django / Python ----
+*.pyc
+__pycache__/
+db.sqlite3
+
+# ---- Env Files ----
+myproject/.env
+
+# ---- Editor / IDE ----
+.vscode/
+.idea/
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
